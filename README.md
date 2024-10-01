@@ -1,2 +1,2 @@
 # Lab1
-Lab1 for FA24 CSE29
+Lab1 CSE 29
